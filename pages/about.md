@@ -23,7 +23,7 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-##An H2 Heading
+## An H2 Heading
 
 Since 1969, Maryland Public Television (née the Maryland Center for Public Broadcasting) has created original public programming designed to serve the educational, cultural, and entertainment interests of Maryland citizens. Over the last five decades, MPT has earned both regional and national acclaim, becoming one of the nation’s top producing PBS stations and maintaining consistently high production standards with programs that have been viewed worldwide.
 
