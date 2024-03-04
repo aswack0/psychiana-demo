@@ -23,5 +23,13 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
+##An H2 Heading
+
+Since 1969, Maryland Public Television (née the Maryland Center for Public Broadcasting) has created original public programming designed to serve the educational, cultural, and entertainment interests of Maryland citizens. Over the last five decades, MPT has earned both regional and national acclaim, becoming one of the nation’s top producing PBS stations and maintaining consistently high production standards with programs that have been viewed worldwide.
+
+In 2019, MPT celebrated its 50th anniversary with an exhibit that illustrates the station’s origins, showcases the best of its programs through artifacts and digitized videos, and gives visitors behind-the-scenes glimpses into the impressive array of ideas, people, and technology that have helped make MPT a national leader in public television and a treasured resource for the state.
+
+For more information, drop in at MPT’s own 50th anniversary website at [www.mpt.org/about/50th](https://www.mpt.org/about/50th)
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
